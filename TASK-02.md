@@ -47,5 +47,3 @@ The goal of this task is to help learners become familiar with the basic tools a
 9. **Save and Download**
    - Click on **Share → Download**
    - Choose file type (PNG or PDF) and download your poster
-
----
